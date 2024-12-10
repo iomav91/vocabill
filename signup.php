@@ -1,5 +1,5 @@
 <?php 
-    include '../core/init.php';
+    include 'core/init.php';
 
     if (isset($_REQUEST['signup'])) {
         $firstname = $_REQUEST['firstname'];
