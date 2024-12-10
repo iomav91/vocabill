@@ -1,6 +1,6 @@
 <?php
 
-  include '../core/init.php';
+  include 'core/init.php';
   $error = null;
 
   if (isset($_REQUEST['login'])) {
