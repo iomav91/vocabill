@@ -1,6 +1,6 @@
 <?php 
 
-  include '../core/init.php';
+  include 'core/init.php';
 
   $invoices = $getFromInv->invoices();
   $clients = $getFromC->clients();
