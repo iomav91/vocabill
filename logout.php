@@ -1,4 +1,4 @@
 <?php
-  include '../core/init.php';
+  include 'core/init.php';
   $getFromA->logout();
 ?>
